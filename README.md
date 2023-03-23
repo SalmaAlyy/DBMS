@@ -11,7 +11,7 @@ Main Menu
 
 
 
-Tabels Menu
+Tables Menu
 
 <img width="415" alt="2" src="https://user-images.githubusercontent.com/118729047/227185641-eef73d32-a7e4-443e-9442-5d46d616e207.PNG">
 
